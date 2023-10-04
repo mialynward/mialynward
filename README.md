@@ -8,7 +8,7 @@ I am a Junior Full Stack Software Engineer who loves coding almost as much as I 
 
 * 🌍  I'm based in Washington D.C.
 * ✉️  You can contact me at [mia\_lyn\_ward@hotmail.com](mailto:mia_lyn_ward@hotmail.com)
-* 🧠  I'm learning Front-End Technologies like React and JavaScript
+* 🧠  I'm learning Front-End Technologies!
 
 ### Skills
 
